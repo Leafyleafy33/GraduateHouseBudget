@@ -1,9 +1,3 @@
-!pip install plotly
-!pip install openpyxl
-!pip install colorsys
-!pip install numpy
-!pip install pandas
-
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
