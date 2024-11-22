@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Load data
-file_path = 'budget_output_experiment.xlsx'
+file_path = 'budget_output.xlsx'
 df = pd.read_excel(file_path)
 
 # Map Subcommittees to Supreme Categories
